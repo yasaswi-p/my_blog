@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/about.html</loc>
-    <lastmod>2023-02-15T09:00:23.152Z</lastmod>
+    <lastmod>2023-02-15T19:12:19.511Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/Mahabharata/mahabharata-analysis.html</loc>
-    <lastmod>2023-02-15T09:00:24.012Z</lastmod>
+    <lastmod>2023-02-15T19:12:20.301Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/index.html</loc>
-    <lastmod>2023-02-15T09:00:24.312Z</lastmod>
+    <lastmod>2023-02-15T19:12:20.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yasaswi-p.github.io/my_blog/posts/post-with-code/mahabharata-analysis.html</loc>
+    <lastmod>2023-02-15T19:12:21.311Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-02-15T09:00:24.572Z</lastmod>
+    <lastmod>2023-02-15T19:12:21.491Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/posts/welcome/index.html</loc>
-    <lastmod>2023-02-15T09:00:24.812Z</lastmod>
+    <lastmod>2023-02-15T19:12:21.711Z</lastmod>
   </url>
 </urlset>
