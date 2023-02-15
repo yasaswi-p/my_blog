@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Yasaswi Palagummi"
 about:
   template: trestles
   image: profile.jpg
@@ -16,14 +16,14 @@ This is an active experimentation site.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of Exeter | Exeter, United Kingdom
+MSc Data Science with AI | Sep 2021 - Sep 2022
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+GITAM University | Visakhapatnam, India
+B.tech in Computer Science and Engineering | Jun 2013 - Apr 2017
 
-## Experience
+<!-- ## Experience
 
 Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+GeoScynce | Chief Analyst | Spet 2012 - April 2018 -->
