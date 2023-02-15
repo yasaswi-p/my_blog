@@ -25,7 +25,7 @@
     "href": "posts/post-with-code/temp.html",
     "title": "my_blog",
     "section": "",
-    "text": "import matplotlib.pyplot as plt\nimport numpy as np\n\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nThis is a test markdown cell! Actively testing!!!"
+    "text": "---\ntitle: \"Testing Project\"\nauthor: \"Yasaswi Palagummi\"\ndate: \"2023-02-15\"\ncategories: [test_cat, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n\n### This is second render\nr = np.arange(0, 2, 0.01)\ntheta = 4 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a test markdown cell! Actively testing!!!"
   },
   {
     "objectID": "posts/welcome/index.html",
