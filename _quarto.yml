@@ -14,9 +14,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-input:
-  - about.qmd
-  - posts/post-with-code/index.qmd
-  - posts/post-with-code/image.jpg
-  - posts/post-with-code/test.ipynb
