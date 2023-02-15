@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/about.html</loc>
-    <lastmod>2023-02-15T19:26:21.231Z</lastmod>
+    <lastmod>2023-02-15T19:57:00.941Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/index.html</loc>
-    <lastmod>2023-02-15T19:26:21.471Z</lastmod>
+    <lastmod>2023-02-15T19:57:01.201Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-02-15T19:26:21.661Z</lastmod>
+    <lastmod>2023-02-15T19:57:01.391Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yasaswi-p.github.io/my_blog/posts/post-with-code/test.html</loc>
+    <lastmod>2023-02-15T19:57:01.591Z</lastmod>
   </url>
   <url>
     <loc>https://yasaswi-p.github.io/my_blog/posts/welcome/index.html</loc>
-    <lastmod>2023-02-15T19:26:21.851Z</lastmod>
+    <lastmod>2023-02-15T19:57:01.781Z</lastmod>
   </url>
 </urlset>
