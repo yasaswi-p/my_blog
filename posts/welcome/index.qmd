@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Yasaswi Palagummi"
 date: "2023-02-11"
 categories: [news]
 ---
